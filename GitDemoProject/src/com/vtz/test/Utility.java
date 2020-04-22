@@ -11,6 +11,10 @@ public class Utility {
 	 }
 	 
 	 public void getName(){
-		 System.out.println("My name is ==> Vishal Gaikwad From nagpur");
+		 System.out.println("My name is  ==> Vishal Gaikwad From nagpur");
+	 }
+	 
+	 public String getOfficeName() {
+		 return "HCL_Mihan@Nagpur";
 	 }
 }
