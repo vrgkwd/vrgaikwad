@@ -9,4 +9,8 @@ public class Utility {
 		 System.out.println("Utility.getSysDate()");
 		 return new Date();
 	 }
+	 
+	 public void getName(){
+		 System.out.println("My name is ==> Vishal Gaikwad From nagpur");
+	 }
 }

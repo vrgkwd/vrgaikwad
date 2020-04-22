@@ -5,5 +5,6 @@ public class Test {
 
 	  Utility u = new Utility();
 	System.out.println(u.getSysDate());
+	     u.getName();
 }
 }
