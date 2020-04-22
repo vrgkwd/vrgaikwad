@@ -17,4 +17,13 @@ public class Utility {
 	 public String getOfficeName() {
 		 return "HCL_Mihan@Nagpur";
 	 }
+	 
+	 public String getAge() {
+		 return ""+26;
+	 }
+	 
+	 
+	 
+	 
+	 
 }
